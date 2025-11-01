@@ -15,7 +15,7 @@ This Power BI project provides an interactive analysis of movie sales performanc
 
 **Key Influencers:** Leveraged the Key Influencer visual to highlight the most significant factors influencing movie revenue.
 
-📊 Visuals Used
+# 📊 Visuals Used
 
 - Line Chart: To show yearly revenue trends by genre.
 
@@ -25,7 +25,7 @@ This Power BI project provides an interactive analysis of movie sales performanc
 
 - Card Visuals: For total revenue, average rating, and total movie count KPIs.
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Power BI Desktop – for dashboard design and visualization
 
@@ -35,7 +35,7 @@ This Power BI project provides an interactive analysis of movie sales performanc
 
 - Dataset: Movie dataset containing fields such as Title, Genre, Year, Revenue, Rating, Votes, and Runtime
 
-📈 Insights
+# 📈 Insights
 
 - Movies with higher IMDb ratings and votes tend to earn significantly higher revenue.
 
